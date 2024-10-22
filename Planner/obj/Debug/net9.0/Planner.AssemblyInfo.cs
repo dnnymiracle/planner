@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Planner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a63620a8da897537b459e4a01d7604eecdfa6d70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78ed962fe4565cba216cd5d8a58bce8f257c62ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Planner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Planner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
